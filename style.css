@@ -10,7 +10,7 @@
 
 #blogposting h1 {
   font-size: 2em;
-  font-weight: bold;
+  font-weight: 800;
   color: #3b2f2f;
   border-left: 6px solid #8c6239;
   padding-left: 0.5em;
@@ -23,12 +23,14 @@
   color: #4a3f35;
   border-bottom: 1px solid #d7ccc0;
   padding-bottom: 0.3em;
+  font-weight:700;
 }
 
 #blogposting h3 {
   font-size: 1.3em;
   margin: 1em 0 0.5em;
   color: #5a4635;
+  font-weight:600;
 }
 
 #blogposting p {
@@ -58,7 +60,7 @@
   margin-bottom: 0.5em;
   display: inline;
 }
- 
+
 #blogposting .related {
   background: #f9f7f4;
   border: 1px solid #e0dcd5;
